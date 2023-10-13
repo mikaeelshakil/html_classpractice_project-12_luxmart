@@ -1,0 +1,67 @@
+body{
+	font-family: Raleway;
+	font-size: 16px;
+	font-weight: 400;
+}
+/*Banner Start*/
+.header{
+	background-color: #592d9b;
+}
+
+.love{
+	color: red;
+	font-size: 12px;
+}
+.cart{
+	font-size: 25px;
+	color: #fff;
+}
+.h_effect ul li a:hover{
+	text-decoration: underline;
+	text-decoration-color: #fff;
+}
+
+.py-7{
+	padding: 115px 0;
+}
+.box{
+	background-color: red;
+	height: 100px;
+}
+
+.b_h1{
+	font-size: 50px;
+}
+.mt-5{
+	margin-top: 80px;
+}
+
+.ms-8{
+	margin-left: 112px;
+}
+
+.id{
+	color: #592d9b;
+}
+
+.num p{
+	color: #592d9b;
+}
+
+.Afmetingen{
+	color: #592d9b;
+}
+
+/*Banner End*/
+
+/*feature Start*/
+
+.feature h1{
+	font-size: 50px;
+	font-weight: 800;
+}
+
+.mb-7{
+	margin-bottom: 115px;
+}
+/*Feature End*/
